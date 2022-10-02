@@ -1,0 +1,604 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "alignment" : "horizontal",
+                "name" : "surface"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "36879F0F-90B8-4832-8E34-9D3516508DB0",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "5D86898C-6580-4CE2-A840-6E44A47D8564" : null,
+                  "7D308190-A7C5-4B71-97BE-47F469415F19" : null,
+                  "74B28875-2285-4193-976B-000F4ADEA888" : null,
+                  "720A3C80-E391-450F-BDEE-993BAD49DD08" : null,
+                  "168487C6-CEB0-4E07-A87A-59E61FEAC170" : null,
+                  "B8C936BB-9FB1-4ABD-87A7-8EC4185ADACF" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:8088b3e464350296485285d8539390d4\/tavolo.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "D461E6B5-9B43-400D-AD4A-C9589FD5EA95"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "714B0578-61E1-4265-85AF-888EABFF2D97"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "tavolo"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.0099999979138374329,
+                        0,
+                        1
+                      ]
+                    }
+                  },
+                  "BCABAE4D-7E91-4487-8A9E-BE03825B1A64" : null,
+                  "Cube" : null,
+                  "D3AC0BD4-9EC0-4ADF-9553-7981A5D7C2D7" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Tavolo",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.73124384880065918,
+                  -1.173462749193277e-08,
+                  0.68211615085601807,
+                  0,
+                  0.45473098754882812,
+                  0.7453731894493103,
+                  -0.4874817430973053,
+                  0,
+                  -0.50843113660812378,
+                  0.66664731502532959,
+                  0.54504954814910889,
+                  0,
+                  -1.2305731773376465,
+                  2.3039336204528809,
+                  1.8395431041717529,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        },
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "alignment" : "horizontal",
+                "name" : "surface"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "81D247B8-C751-463B-9EB6-C1B64F5A010D",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "3B3118C6-9BA9-44C4-9827-465DA9EE984D" : null,
+                  "89081EC3-FA54-4FD1-8E68-6B99F7656758" : null,
+                  "A619C360-CF87-46E1-937D-95896A6CC7B1" : null,
+                  "B4963473-C55A-4B0D-A444-7864B159D803" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:84f9c2a14832aa085630caa618c68cd6\/dischetto.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "76D81F2A-4918-48D0-9E12-63D640284F93"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "721F8CB5-9C4B-4E4E-8776-D6B2D0959228"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "dischetto"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ]
+                    }
+                  },
+                  "Cube" : null,
+                  "E4D628A0-89D3-4975-9D02-0A09A3877E3E" : null,
+                  "EDABA983-00D3-49FC-8E45-671BAD8A1F89" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Dischetto",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.73124372959136963,
+                  0,
+                  0.68211627006530762,
+                  0,
+                  0.32636448740959167,
+                  0.87811005115509033,
+                  -0.34986993670463562,
+                  0,
+                  -0.59897315502166748,
+                  0.47845873236656189,
+                  0.64211249351501465,
+                  0,
+                  -1.2324614524841309,
+                  1.7839850187301636,
+                  2.8414325714111328,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        },
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "alignment" : "horizontal",
+                "name" : "surface"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "CE04D6F7-B617-47CD-B97A-DD2F11274FD9",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "3D9C1D51-DA9D-433A-B56F-5DDEFEFB54C3" : null,
+                  "8E7F54EE-948F-4F77-ADFE-2ADC7F7ED099" : null,
+                  "96ED1B02-5AE1-4315-ABAF-15A60695DD3B" : null,
+                  "91093D1A-3EB6-4C0E-AD66-39DA04B80AF1" : null,
+                  "A214DAA6-16F3-4CC0-B58D-83B7918062B9" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:b97958aa6a6ac214cebc6959524631bf\/piattino.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "5038ACFD-14E2-4384-95A8-D299EBD117E1"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "669872EC-5EAE-4AEE-87B4-A59454095A79"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "piattino"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ]
+                    }
+                  },
+                  "AF3FB58D-1946-4B9D-87AF-51A676D25893" : null,
+                  "B39DE0DE-36E4-4DA6-8AD6-D2CDBA786B2D" : null,
+                  "Cube" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Piattino",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.03488573431968689,
+                  1.5834459299313153e-09,
+                  0.99939131736755371,
+                  0,
+                  0.45453339815139771,
+                  0.89058828353881836,
+                  -0.01586633175611496,
+                  0,
+                  -0.89004629850387573,
+                  0.45481029152870178,
+                  0.03106878325343132,
+                  0,
+                  -3.4641079902648926,
+                  1.7294081449508667,
+                  0.11049872636795044,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
